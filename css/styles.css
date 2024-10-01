@@ -466,6 +466,10 @@ a:hover {
     /* Колір тексту */
 }
 
+.footer-container .logo-link {
+    margin-bottom: 16px;
+}
+
 .footer-container .logo-span {
     color: #f4f4fd;
     /* Колір тексту для Studio */
